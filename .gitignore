@@ -1,0 +1,6 @@
+output.txt
+input.txt
+*.exe
+/main.build/
+/main.onefile-build/
+/main.dist/
